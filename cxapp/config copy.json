@@ -1,0 +1,7 @@
+﻿
+{
+    "connectionString": "mongodb+srv://chorusxsocial:Koen@9643@socialgps.vca8t.mongodb.net/Socialgps?retryWrites=true&w=majority",
+    "secret": "socialgps"
+}
+
+

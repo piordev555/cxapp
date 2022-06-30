@@ -1,0 +1,7 @@
+﻿{
+    "connectionString": "mongodb+srv://chorusxsocial:Koen@9643@socialgps.vca8t.mongodb.net/Socialgps?retryWrites=true&w=majority",
+    "secret": "socialgps",
+    "XummPublicKey": "51008942-cab0-4b41-8a7c-f7e222bf5ec1",
+    "XummSecretKey": "90c24ddf-fcfe-4f40-a9bf-62e9fad8cb9d"
+}
+
